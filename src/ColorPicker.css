@@ -1,0 +1,8 @@
+.ColorPicker > ul {
+  text-align: left;
+  display: inline-block;
+}
+
+li {
+  margin: 0 10px;
+}

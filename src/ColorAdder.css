@@ -1,0 +1,10 @@
+.ColorAdder {
+  background-color: #333;
+  color: white;
+  font-weight: bold;
+  padding: 15px;
+}
+
+.ColorAdder > a {
+  color: white;
+}
